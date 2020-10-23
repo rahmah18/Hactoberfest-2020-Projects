@@ -1,1 +1,1 @@
-# Hactoberfest-2020-Projects
+# Hacktoberfest-2020-Projects
